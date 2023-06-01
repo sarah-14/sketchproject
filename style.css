@@ -1,0 +1,22 @@
+body
+{
+background-color: lightgreen;
+}
+
+.score
+{
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+.timer
+{
+    font-size: 20px;
+    margin-right: 15px;
+    float: right;
+}
+
+.sdraw
+{
+   color: lightcoral; 
+}
